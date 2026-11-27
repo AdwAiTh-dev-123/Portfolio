@@ -1,0 +1,16 @@
+{
+  "name": "Adwaith P — Portfolio",
+  "short_name": "Adwaith P",
+  "description": "Portfolio of Adwaith P — MERN Stack & Web Application Developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#07090e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
